@@ -9,9 +9,6 @@
     <a href="https://github.com/AndreAY-id"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </p>
 
-_Smoking And Coffiee_
-___
-
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
