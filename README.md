@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://instagram.com/@andreay.id"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://www.facebook.com/AndreAY.id"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/AAY_ID"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/AAY_ID"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
     <a href="https://github.com/AndreAY-id"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </p>
 
@@ -45,28 +45,12 @@ $ pip install bs4
 
 $ pip install pycryptodome
 
-$ git clone https://github.com/LuciverXploit/DEFACER-WEB
+$ git clone https://github.com/AndreAY-id/deface
 
 $ cd DEFACER-WEB
 
 $ git pull
 
 $ python aay.py
-
-### Screenshot:
-<p align="center">
-
-### Let's connect!
-<p>
-    <a href="https://LuciverXploit.id" target="blank"><img src="https://img.shields.io/badge/Website-https://luciverxploit.com-green?" /></a>
-    <a href="https://linkedin.luciverxploit.com" target="blank"><img src="https://img.shields.io/badge/LuciverXploit-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@luciverxploit" target="blank"><img src="https://img.shields.io/badge/LuciverXploit-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.luciverxploit.com" target="blank"><img src="https://img.shields.io/badge/@arimarshello_reall-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/luciverxploit" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
-</p>
-
-Wanna Hire Me ? 
-
-Contact : bangluci264@gmail.com
 
 
