@@ -42,7 +42,7 @@ $ pip install bs4
 
 $ pip install pycryptodome
 
-$ git clone https://github.com/AndreAY-id/deface
+$ git clone [https://github.com/AAY-ID/deface](https://github.com/AAY-ID/deface)
 
 $ cd DEFACER-WEB
 
