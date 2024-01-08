@@ -3,14 +3,10 @@
 
 ### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ☎️
 <p align="center">
-  <a href="https://instagram.com/@arimarshello_reall"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/qr/0882005508374"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/Luciver Trojans"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/LuciverXploit"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://www.youtube.com/@LuciverX"><img src="https://img.shields.io/badge/YouTube-Luciver Xploit-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/LuciverXploit" /><br>
-  <a name=Luciver Hacker&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/LuciverXploit"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/LuciverX"><img src="https://img.shields.io/youtube/channel/subscribers/Sanzofficiall?style=social" /> <br>
+  <a href="https://instagram.com/@andreay.id"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://www.facebook.com/AndreAY.id"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://t.me/AAY_ID"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+    <a href="https://github.com/AndreAY-id"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </p>
 
 _Smoking And Coffiee_
@@ -55,7 +51,7 @@ $ cd DEFACER-WEB
 
 $ git pull
 
-$ python luci.py
+$ python aay.py
 
 ### Screenshot:
 <p align="center">
